@@ -1,0 +1,15 @@
+{
+  "name": "canvg",
+  "version": "0.0.1",
+  "description": "canvg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@pkgo.in:fanyer/canvg.git"
+  },
+  "main":"bin/canvg.js",
+  "author": "iofanyer",
+  "license": "MIT"
+}
