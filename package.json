@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@pkgo.in:fanyer/canvg.git"
+    "url": "git@github.com:fanyer/canvg.git"
   },
   "main":"bin/canvg.js",
   "author": "iofanyer",
